@@ -1,0 +1,6 @@
+# Clés privées et certificats générés : ne jamais versionner
+pki/
+essai-tmp/
+*.key
+*.csr
+*.srl
