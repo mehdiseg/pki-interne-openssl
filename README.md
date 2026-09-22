@@ -91,6 +91,3 @@ Les tests s'exécutent aussi à chaque `push` (GitHub Actions, Ubuntu).
 - Pas de renouvellement automatique : penser à réémettre les certificats avant les 397 jours (la commande `serveur` sert aussi à cela).
 - Un TP d'apprentissage, pas une PKI de production.
 
-## Licence
-
-[MIT](LICENSE)
